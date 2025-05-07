@@ -1,4 +1,4 @@
-# Challenge Alura Store
+# Challenge Alura Store - Alura LATAM / Oracle Next Education Especializacion Ciencia de Datos
 
 # AluraStoreLatam
 # 🛒 Análisis de Rendimiento - Tiendas Alura Store LATAM
@@ -24,8 +24,8 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) para evaluar el d
 - Python 🐍
 - Pandas
 - Matplotlib & Seaborn 📊
-- Jupyter Notebook 📓
-
+- Google Colab ☁️ 
+- Git / GitHub 🗃️ 
 ---
 
 ## 📂 Estructura del proyecto
