@@ -1,6 +1,9 @@
+# Challenge Alura Store
+
 # AluraStoreLatam
 # 🛒 Análisis de Rendimiento - Tiendas Alura Store LATAM
 
+Durante este desafío, ayudaremos al Sr. Juan a decidir qué tienda de su cadena Alura Store debe vender para iniciar un nuevo emprendimiento.
 Este proyecto realiza un análisis exploratorio de datos (EDA) para evaluar el desempeño de cuatro tiendas virtuales de Alura Store en América Latina. Se busca identificar cuál de las tiendas es menos eficiente y debería ser vendida, basándose en datos de ventas, calificaciones de clientes, productos y costos logísticos.
 
 ---
@@ -29,8 +32,11 @@ Este proyecto realiza un análisis exploratorio de datos (EDA) para evaluar el d
 
 📁 AluraStoreLatam
 │
+
 ├── AluraStoreLatam_v4.ipynb # Notebook principal con el análisis
+
 ├── README.md # Este archivo
+
 └── Informe_AluraStore.pdf # Informe final en PDF con recomendaciones
 
 
